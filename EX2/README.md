@@ -1,9 +1,5 @@
 # LP2
 
-## Link do video
-
-https://www.youtube.com/watch?v=mhHzuOFaDgI
-
 ## Exercicio 02 de Java 
 
 Um livro pode ser escrito por um ou muitos autores, por esta razão a classe booking
